@@ -13,11 +13,8 @@ This is a very common use case for a lot of apps.
 - Each child is an `Offstage` widget with a child `Navigator`.
 - Don't forget to handle Android back navigation with `WillPopScope`.
 
-Read the full story on my article:
+The article which I referred to:
 
 - [Flutter Bottom Navigation Bar with Multiple Navigators: A Case Study](https://codewithandrea.com/articles/2018-07-07-multiple-navigators-bottom-navigation-bar/)
 
-### Credits
-
-- [Brian Egan](https://github.com/brianegan): for suggesting to use `Stack` + `Offstage` & `Navigator` widgets.
 
