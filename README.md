@@ -1,6 +1,6 @@
 ## Preview
 
-![](screenshots/multiple-navigators-BottomNavigationBar-animation.gif)
+![](screenshots/demo.gif)
 
 In this example each tab has its own navigation stack. This is so that we don’t lose the navigation history when switching tabs.
 
