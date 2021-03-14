@@ -1,4 +1,4 @@
-# Colorimeter -Nested Navigation Demo
+# Colorimeter - Nested Navigation Demo
 
 ## Preview
 
