@@ -1,9 +1,3 @@
-# Flutter BottomNavigationBar with Multiple Navigators
-
-This is the source code for my article:
-
-- [Flutter Bottom Navigation Bar with Multiple Navigators: A Case Study](https://codewithandrea.com/articles/2018-07-07-multiple-navigators-bottom-navigation-bar/)
-
 ## Preview
 
 ![](screenshots/multiple-navigators-BottomNavigationBar-animation.gif)
@@ -27,4 +21,3 @@ Read the full story on my article:
 
 - [Brian Egan](https://github.com/brianegan): for suggesting to use `Stack` + `Offstage` & `Navigator` widgets.
 
-### [License: MIT](LICENSE.md)
